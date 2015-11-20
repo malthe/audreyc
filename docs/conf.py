@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Audrey'
+project = 'Audrey Documentation'
 copyright = '2015, Malthe Borch'
 author = 'Malthe Borch'
 
